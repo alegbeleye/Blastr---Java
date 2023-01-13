@@ -10,4 +10,5 @@ The game ends when you or the earth is out of health.
 The boss appears every 10 seconds to attack and distract you from the asteroids.
 
 ![homePG](https://user-images.githubusercontent.com/54943241/211945646-04eaeedf-fe3d-41a9-93be-3035342b5bda.png) 
-![ingamePG](https://user-images.githubusercontent.com/54943241/211945684-d45ab67f-42fa-4b79-85f7-e8b6a235281a.png)
+![newPG](https://user-images.githubusercontent.com/54943241/212225793-43855c67-262b-4ff4-bcfc-e59dbd659395.png)
+
